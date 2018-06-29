@@ -131,7 +131,7 @@ Fire Foxのアドオンとして利用可能 統合TV: http://togotv.dbcls.jp/20
 
 ### MotDB (Master of the DataBases)
 講習会のお知らせや、講習会で使用した資料、長浜バイオ大学、お茶の水女子大学、東京大学で実施されている人材養成講義の資料を見ることができます
-- 長浜バイオ大学でのアノテーター養成講座テキスト
+- 長浜バイオ大学での[アノテーター養成講座](https://github.com/AJACS-training/Nagahama-i-Bio)テキスト
 - お茶の水女子大学での[DB高度利用者養成](http://togodb.sel.is.ocha.ac.jp/pukiwiki/index.php?FrontPage)
 - 東京大学での[DB構築者養成](http://mlab.cb.k.u-tokyo.ac.jp/~mkasa/ensemblmirror/index.php?EnsemblMirror)　超難関です！
 
